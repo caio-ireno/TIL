@@ -1,10 +1,10 @@
   <h1 align="center"> API's, REST e HTTP </h1>
 
-* [API's](#API’S - Application Programming Interface)
+* [API's](#API'S)
 
-* [Padrão REST](#Padrão REST)
+* [Padrão REST](#REST)
 
-* [Protocolo HTTP/HTTPS](#Protocolo HTTP/HTTPS)
+* [Protocolo HTTP/HTTPS](#HTTP/HTTPS)
 
 * [URL E Método](#URL E Método)
 
@@ -20,7 +20,9 @@
 
     
 
-  <h2 align="center">API’S - Application Programming Interface</h2>
+  <h2 align="center">API’S</h2>
+
+**API’s** =  **A**pplication **P**rogramming **I**nterface
 
 <b>Application:</b> Um servidor, aplicativo, objeto Javascript (String, number...) ou qualquer coisa que o usuário interaja através de comandos. Ao acessar um URL, estamos utilizando a API do browser para se comunicar com o a API do servidor.
 
@@ -46,7 +48,7 @@ Vale ressaltar que, `API`, não é o retorno da página (arquivo `JSON`). O arqu
 
 
 
-<h2 align="center">Padrão REST</h2> 
+<h2 align="center">REST</h2> 
 
 **REST** = **Re**presentational **S**tates **T**ransfer
 
@@ -62,7 +64,7 @@ O rest é uma arquitetura que define um padrão de linguagem, boas práticas com
 
 - Migração de sistemas
 
-<h2 align="center">Protocolo HTTP/HTTPS</h2> 
+<h2 align="center">HTTP/HTTPS</h2> 
 
  **HTTP** =  **H**yper **T**ext **T**ransfer **P**rotocol.
 
