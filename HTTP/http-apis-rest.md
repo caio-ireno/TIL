@@ -62,7 +62,7 @@ O rest é uma arquitetura que define um padrão de linguagem, boas práticas com
 
 - Migração de sistemas
 
-<h2 align="center">Protocolo HTTP/HTTPS </h2> 
+<h2 align="center">Protocolo HTTP/HTTPS</h2> 
 
  **HTTP** =  **H**yper **T**ext **T**ransfer **P**rotocol.
 
@@ -80,7 +80,7 @@ Utiliza a arquitetura do tipo cliente-servidor, ou seja, os clientes solicitam u
 
 Uma requisição **HTTP** é feita através de uma **URL**. O **método** padrão é o `GET`, mas existem outros como POST, UPDATE, DELETE, HEADER.
 
-<h4> GET </h4>
+<h4>GET</h4>
 
 GET irá puxar as informações da URL. Não é necessário informar que o método é GET, pois este é o padrão.
 
