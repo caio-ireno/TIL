@@ -6,7 +6,7 @@
 
 * [Protocolo HTTP/HTTPS](#HTTP/HTTPS)
 
-* [URL E Método](#URL E Método)
+* [URL E Método](#URL_E_Método)
 
   * [GET](#GET)
 
@@ -78,7 +78,7 @@ Utiliza a arquitetura do tipo cliente-servidor, ou seja, os clientes solicitam u
 
 
 
-<h2 align="center">URL E Método</h2> 
+<h2 align="center">URL_E_Método</h2> 
 
 Uma requisição **HTTP** é feita através de uma **URL**. O **método** padrão é o `GET`, mas existem outros como POST, UPDATE, DELETE, HEADER.
 
